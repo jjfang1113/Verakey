@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vera Key</string>
+    <string name="lbl_loginInfo">Login</string>
+    <string name="hint_userAc">帳號</string>
+    <string name="hint_userPw">密碼</string>
+    <string name="bt_login">登入</string>
+</resources>
